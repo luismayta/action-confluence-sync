@@ -6,7 +6,7 @@ toolchain go1.22.2
 
 require (
 	github.com/gruntwork-io/terratest v0.46.13
-	github.com/stretchr/testify v1.8.4
+	github.com/stretchr/testify v1.9.0
 )
 
 require (
